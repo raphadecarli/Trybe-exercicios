@@ -1,0 +1,8 @@
+internet
+unix
+bash
+oi
+xau
+adeus
+fui
+hello
