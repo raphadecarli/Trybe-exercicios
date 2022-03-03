@@ -1,0 +1,15 @@
+h1, p {
+    text-align: center;
+}
+li:hover {
+    background-color: blue;
+    list-style: none;
+}
+ul:active {
+    color: white;
+    list-style: none;
+}
+
+#aprender {
+    background-color: aqua;
+}
